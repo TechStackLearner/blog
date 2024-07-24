@@ -320,6 +320,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (>= 2.3.5)
+  concurrent-ruby (= 1.2.3)
   github-pages
   html-proofer (~> 5.0)
   jekyll-github-metadata (>= 2.15)

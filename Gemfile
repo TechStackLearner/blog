@@ -10,3 +10,5 @@ gem "html-proofer", "~> 5.0", :group => :development
 gem "github-pages", group: :jekyll_plugins
 
 gem "webrick"
+
+gem 'concurrent-ruby', '1.2.3'
