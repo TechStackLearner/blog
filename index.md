@@ -70,7 +70,7 @@ email, or any other method with the owners of this repository before making a ch
 {% endfor %}
 </ul>
 
-### Code of Conduct
+### Code of Conduct 
 
 Just the Docs is committed to fostering a welcoming community.
 

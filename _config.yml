@@ -18,7 +18,7 @@ description: A Jekyll theme for documentation
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "TechStackLearner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
-
+theme: just-the-docs #Build settings 追加
 permalink: pretty
 
 exclude:
