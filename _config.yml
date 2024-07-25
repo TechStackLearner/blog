@@ -181,7 +181,9 @@ plugins:
   - jekyll-include-cache
 
 #　Build error対策
-include: ["_includes/vendor"]
+include:
+  - _includes/vendor
+
 
 kramdown:
   syntax_highlighter_opts:
