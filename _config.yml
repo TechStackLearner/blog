@@ -179,8 +179,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
-  
-include: ["_includes/vendor"]　#Build error対策
+
+#　Build error対策
+include: ["_includes/vendor"]
 
 kramdown:
   syntax_highlighter_opts:
