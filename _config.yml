@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: テストのブログ
+description: これはテストのブログです。
+markdown: kramdown
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
