@@ -4,5 +4,5 @@ description: これはテストのブログです。
 markdown: kramdown
 nav:
   - Home: index.md
-  - About: about.md
-  - Contact: contact.md
+  - About: docs/about.md
+  - Contact: docs/contact.md
