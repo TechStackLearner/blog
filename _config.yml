@@ -1,4 +1,5 @@
-theme: jekyll-theme-architect
+theme: just-the-docs
+
 title: テストのブログ
 description: これはテストのブログです。
 markdown: kramdown
@@ -6,3 +7,6 @@ nav:
   - Home: index.md
   - About: docs/about.md
   - Contact: docs/contact.md
+
+sidebar:
+  nav: "categories"
