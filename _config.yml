@@ -183,6 +183,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-last-modified-at
 
 #　Build error対策
 include:

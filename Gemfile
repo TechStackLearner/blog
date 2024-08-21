@@ -7,3 +7,5 @@ gem "html-proofer", "~> 5.0", :group => :development
 
 gem 'github-pages', group: :jekyll_plugins
 gem 'just-the-docs'
+
+gem "jekyll-last-modified-at", "~> 1.3"
