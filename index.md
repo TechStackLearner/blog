@@ -7,5 +7,5 @@ nav_exclude: true
 ---
 # About PowerPlatform
 
-- [PowerApps]('https://techstacklearner.github.io/blog/docs/powerapps')
-- [PowerAutomate]('https://techstacklearner.github.io/blog/docs/powerautomate')
+- <a href="https://techstacklearner.github.io/blog/docs/powerapps">PowerApps</a>
+- <a href="https://techstacklearner.github.io/blog/docs/powerautomate">PowerAutomate</a>
